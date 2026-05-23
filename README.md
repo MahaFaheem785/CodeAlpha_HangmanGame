@@ -120,8 +120,8 @@ CodeAlpha_HangmanGame/
 
 * **Name:** Maha Faheem Bhatti
 * **Internship:** CodeAlpha Python Programming Internship
-* **LinkedIn:** Your LinkedIn Profile
-* **GitHub:** Your GitHub Profile
+* **LinkedIn:** [https://www.linkedin.com/in/maha-faheem-635903375/](url)
+* **GitHub:** [https://github.com/MahaFaheem785](url)
 
 ---
 
